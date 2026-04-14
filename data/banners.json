@@ -1,0 +1,29 @@
+[
+  {
+    "id": "banner-kyo-1",
+    "title": "Mykingdom",
+    "subtitle": "Ưu đãi quà tặng và Đồ chơi chính hãng",
+    "ctaLabel": "Shop Now",
+    "href": "/shop",
+    "image": "/images/banner-kyo-1.jpg",
+    "active": true
+  },
+  {
+    "id": "banner-kyo-2",
+    "title": "Mykingdom",
+    "subtitle": "Bộ sưu tập mới đã lên kệ",
+    "ctaLabel": "Xem sản phẩm",
+    "href": "/shop",
+    "image": "/images/banner-kyo-3-2048x1024.jpg",
+    "active": true
+  },
+  {
+    "id": "banner-kyo-3",
+    "title": "Ưu đãi nổi bật",
+    "subtitle": "Săn deal quà tặng",
+    "ctaLabel": "Mua ngay",
+    "href": "/shop",
+    "image": "/images/banner-kyo-4-2048x1024.jpg",
+    "active": true
+  }
+]

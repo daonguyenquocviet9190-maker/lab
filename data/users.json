@@ -1,0 +1,45 @@
+[
+  {
+    "id": "f1670342-0137-4cd1-aaf4-068b5cc2bfba",
+    "fullName": "Quốc Việt",
+    "username": "Quốc Việt",
+    "email": "duc332001@gmail.com",
+    "phone": "02876528",
+    "password": "viet@16",
+    "role": "admin",
+    "createdAt": "2026-03-27T09:18:53.568Z"
+  },
+  {
+    "id": "9a2571d2-abec-472e-a7d6-670c509a7e71",
+    "fullName": "Quốc Việt",
+    "username": "viet20060106",
+    "email": "daonguyenquocviet9190@gmail.com",
+    "phone": "",
+    "password": "123456",
+    "role": "admin",
+    "createdAt": "2026-03-30T11:29:26.893Z",
+    "provider": "google",
+    "providerId": "112444030829099145194",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJCLFQboEJhvG9_zRgomEfsfzJoXED5sXeJXLwuAPAWG6ipCQ=s96-c"
+  },
+  {
+    "id": "admin-1",
+    "fullName": "Admin",
+    "username": "admin",  
+    "email": "admin@gmail.com",
+    "phone": "0123456789",
+    "password": "123456",
+    "role": "admin",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "d8a8be3c-7c51-426e-8351-b58cdaf849d0",
+    "fullName": "viet",
+    "username": "vue",
+    "email": "dao@gmail.com",
+    "phone": "0395045813",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2026-04-13T03:29:16.264Z"
+  }
+]

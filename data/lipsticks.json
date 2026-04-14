@@ -1,0 +1,143 @@
+[
+  {
+    "id": 101,
+    "name": "Bộ LEGO Friends Nhà Búp Bê Màu Hồng 300 Chi Tiết",
+    "image": "/images/products/lipstick-1.jpg",
+    "hoverImage": "/images/products/lipstick-1-hover.jpg",
+    "origin": "Đan Mạch",
+    "categories": [
+      "LEGO"
+    ],
+    "oldPrice": 1200000,
+    "price": 960000,
+    "discount": 20,
+    "rating": 5
+  },
+  {
+    "id": 102,
+    "name": "Búp Bê Công Chúa Thời Trang Cao Cấp Có Phụ Kiện",
+    "image": "/images/products/lipstick-2.jpg",
+    "hoverImage": "/images/products/lipstick-2-hover.jpg",
+    "origin": "Mỹ",
+    "categories": [
+      "đồ chơi"
+    ],
+    "oldPrice": 800000,
+    "price": 620000,
+    "discount": 23,
+    "rating": 5
+  },
+  {
+    "id": 103,
+    "name": "Robot Điều Khiển Từ Xa Biến Hình Thông Minh",
+    "image": "/images/products/lipstick-3.jpg",
+    "hoverImage": "/images/products/lipstick-3-hover.jpg",
+    "origin": "Nhật Bản",
+    "categories": [
+      "Robot"
+    ],
+    "oldPrice": 950000,
+    "price": 730000,
+    "discount": 23,
+    "rating": 5
+  },
+  {
+    "id": 104,
+    "name": "Xe Điều Khiển Drift Tốc Độ Cao Có Đèn LED",
+    "image": "/images/products/lipstick-4.jpg",
+    "hoverImage": "/images/products/lipstick-4-hover.jpg",
+    "origin": "Trung Quốc",
+    "categories": [
+      "Xe Điều Khiển"
+    ],
+    "oldPrice": 780000,
+    "price": 620000,
+    "discount": 21,
+    "rating": 5
+  },
+  {
+    "id": 105,
+    "name": "Bộ Xếp Hình Gỗ Montessori Phát Triển Tư Duy",
+    "image": "/images/products/lipstick-5.jpg",
+    "hoverImage": "/images/products/lipstick-5-hover.jpg",
+    "origin": "Việt Nam",
+    "categories": [
+      "Giáo Dục"
+    ],
+    "oldPrice": 420000,
+    "price": 340000,
+    "discount": 19,
+    "rating": 5
+  },
+  {
+    "id": 106,
+    "name": "Combo Đồ Chơi Nhà Bếp Mini Cho Bé Gái",
+    "image": "/images/products/lipstick-6.jpg",
+    "hoverImage": "/images/products/lipstick-6-hover.jpg",
+    "origin": "Hàn Quốc",
+    "categories": [
+      "Đồ Chơi Cho Bé"
+    ],
+    "oldPrice": 550000,
+    "price": 410000,
+    "discount": 25,
+    "rating": 5
+  },
+  {
+    "id": 107,
+    "name": "Bộ Đồ Chơi Xe Cứu Hỏa Và Cảnh Sát Cho Bé",
+    "image": "/images/products/lipstick-7.jpg",
+    "hoverImage": "/images/products/lipstick-7-hover.jpg",
+    "origin": "Trung Quốc",
+    "categories": [
+      "Xe Đồ Chơi"
+    ],
+    "oldPrice": 620000,
+    "price": 545000,
+    "discount": 12,
+    "rating": 5
+  },
+  {
+    "id": 108,
+    "name": "Bộ Đồ Chơi Trang Điểm Giả Lập Cho Bé Gái",
+    "image": "/images/products/lipstick-8.jpg",
+    "hoverImage": "/images/products/lipstick-8-hover.jpg",
+    "origin": "Hàn Quốc",
+    "categories": [
+      "Đồ Chơi Cho Bé"
+    ],
+    "oldPrice": 480000,
+    "price": 422000,
+    "discount": 12,
+    "rating": 5
+  },
+  {
+    "id": 109,
+    "name": "Bộ Đồ Chơi Xếp Hình Sáng Tạo Nhiều Màu",
+    "image": "/images/products/lipstick-9.jpg",
+    "hoverImage": "/images/products/lipstick-9-hover.jpg",
+    "origin": "Trung Quốc",
+    "categories": [
+      "Sáng Tạo"
+    ],
+    "oldPrice": 390000,
+    "price": 315000,
+    "discount": 19,
+    "rating": 5
+  },
+  {
+    "id": 110,
+    "name": "Combo Robot + Xe + Nhân Vật Siêu Anh Hùng",
+    "image": "/images/products/lipstick-10.jpg",
+    "hoverImage": "/images/products/lipstick-10-hover.jpg",
+    "origin": "Nhật Bản",
+    "categories": [
+      "Robot",
+      "Đồ Chơi Hot"
+    ],
+    "oldPrice": 1200000,
+    "price": 950000,
+    "discount": 21,
+    "rating": 5
+  }
+]

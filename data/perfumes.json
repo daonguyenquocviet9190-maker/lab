@@ -1,0 +1,144 @@
+[
+  {
+    "id": 201,
+    "name": "Robot Thông Minh Điều Khiển Từ Xa Có Đèn LED",
+    "image": "/images/products/perfume-1.jpg",
+    "hoverImage": "/images/products/perfume-1-hover.jpg",
+    "origin": "Mỹ",
+    "categories": [
+      "Robot"
+    ],
+    "oldPrice": 1500000,
+    "price": 980000,
+    "discount": 30,
+    "rating": 5
+  },
+  {
+    "id": 202,
+    "name": "Xe Điều Khiển Địa Hình 4 Bánh Leo Dốc Cao Cấp",
+    "image": "/images/products/perfume-2.jpg",
+    "hoverImage": "/images/products/perfume-2-hover.jpg",
+    "origin": "Trung Quốc",
+    "categories": [
+      "Xe Điều Khiển"
+    ],
+    "oldPrice": 2950000,
+    "price": 2380000,
+    "discount": 20,
+    "rating": 5
+  },
+  {
+    "id": 203,
+    "name": "Set Quà Đồ Chơi Robot + Xe + Nhân Vật Siêu Anh Hùng",
+    "image": "/images/products/perfume-3.jpg",
+    "hoverImage": "/images/products/perfume-3-hover.jpg",
+    "origin": "Nhật Bản",
+    "categories": [
+      "Quà Tặng",
+      "Robot"
+    ],
+    "oldPrice": 1900000,
+    "price": 1380000,
+    "discount": 27,
+    "rating": 5
+  },
+  {
+    "id": 204,
+    "name": "Tàu Thuyền Điều Khiển Từ Xa Chạy Trên Nước",
+    "image": "/images/products/perfume-4.jpg",
+    "hoverImage": "/images/products/perfume-4-hover.jpg",
+    "origin": "Trung Quốc",
+    "categories": [
+      "Xe Điều Khiển"
+    ],
+    "oldPrice": 3280000,
+    "price": 2580000,
+    "discount": 21,
+    "rating": 5
+  },
+  {
+    "id": 205,
+    "name": "Búp Bê Công Chúa Thời Trang Cao Cấp Cho Bé Gái",
+    "image": "/images/products/perfume-5.jpg",
+    "hoverImage": "/images/products/perfume-5-hover.jpg",
+    "origin": "Mỹ",
+    "categories": [
+      "đồ chơi"
+    ],
+    "oldPrice": 2050000,
+    "price": 1520000,
+    "discount": 24,
+    "rating": 5
+  },
+  {
+    "id": 206,
+    "name": "Bộ LEGO Mini Lắp Ráp Xe Đua Tốc Độ Cao",
+    "image": "/images/products/perfume-6.jpg",
+    "hoverImage": "/images/products/perfume-6-hover.jpg",
+    "origin": "Đan Mạch",
+    "categories": [
+      "LEGO"
+    ],
+    "oldPrice": 1450000,
+    "price": 1160000,
+    "discount": 20,
+    "rating": 5
+  },
+  {
+    "id": 207,
+    "name": "Robot Biến Hình Kèm Phụ Kiện Chiến Đấu",
+    "image": "/images/products/perfume-7.jpg",
+    "hoverImage": "/images/products/perfume-7-hover.jpg",
+    "origin": "Nhật Bản",
+    "categories": [
+      "Robot"
+    ],
+    "oldPrice": 2390000,
+    "price": 1960000,
+    "discount": 18,
+    "rating": 5
+  },
+  {
+    "id": 208,
+    "name": "Xe Đua Điều Khiển Từ Xa Siêu Tốc Có Đèn",
+    "image": "/images/products/perfume-8.jpg",
+    "hoverImage": "/images/products/perfume-8-hover.jpg",
+    "origin": "Trung Quốc",
+    "categories": [
+      "Xe Điều Khiển"
+    ],
+    "oldPrice": 3150000,
+    "price": 2480000,
+    "discount": 21,
+    "rating": 5
+  },
+  {
+    "id": 209,
+    "name": "Bộ Đồ Chơi Xếp Hình Sáng Tạo Nhiều Màu Cho Bé",
+    "image": "/images/products/perfume-9.jpg",
+    "hoverImage": "/images/products/perfume-9-hover.jpg",
+    "origin": "Việt Nam",
+    "categories": [
+      "Sáng Tạo"
+    ],
+    "oldPrice": 2890000,
+    "price": 2160000,
+    "discount": 25,
+    "rating": 5
+  },
+  {
+    "id": 210,
+    "name": "Combo Đồ Chơi Xe + Robot + Nhân Vật Siêu Anh Hùng",
+    "image": "/images/products/perfume-10.jpg",
+    "hoverImage": "/images/products/perfume-10-hover.jpg",
+    "origin": "Nhật Bản",
+    "categories": [
+      "Đồ Chơi Hot",
+      "Robot"
+    ],
+    "oldPrice": 1980000,
+    "price": 1560000,
+    "discount": 21,
+    "rating": 5
+  }
+]
