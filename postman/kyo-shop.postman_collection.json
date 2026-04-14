@@ -1,0 +1,137 @@
+{
+  "info": {
+    "name": "KYO Shop API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Auth - Register",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/auth/register",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "auth",
+            "register"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"fullName\": \"Nguyen Van A\",\n  \"username\": \"nguyenvana\",\n  \"email\": \"nguyenvana@gmail.com\",\n  \"phone\": \"0987654321\",\n  \"password\": \"123456\"\n}"
+        }
+      }
+    },
+    {
+      "name": "Auth - Login",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/auth/login",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "auth",
+            "login"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"identifier\": \"nguyenvana\",\n  \"password\": \"123456\"\n}"
+        }
+      }
+    },
+    {
+      "name": "Orders - Create (Checkout)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/checkout/orders",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "checkout",
+            "orders"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"order\": {\n    \"orderNumber\": \"KYO-TEST-001\",\n    \"customer\": {\n      \"fullName\": \"Nguyen Van A\",\n      \"phone\": \"0987654321\",\n      \"email\": \"nguyenvana@gmail.com\",\n      \"address\": \"Ha Noi\"\n    },\n    \"items\": [\n      {\n        \"id\": \"p1\",\n        \"name\": \"San pham test\",\n        \"price\": 100000,\n        \"quantity\": 1\n      }\n    ],\n    \"subtotal\": 100000,\n    \"shippingFee\": 0,\n    \"total\": 100000,\n    \"paymentMethod\": \"cod\"\n  }\n}"
+        }
+      }
+    },
+    {
+      "name": "Reviews - List",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{baseUrl}}/api/reviews",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "reviews"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Reviews - Create",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/reviews",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "reviews"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"productKey\": \"gift-1\",\n  \"productName\": \"San pham test\",\n  \"authorName\": \"Nguyen Van A\",\n  \"authorEmail\": \"nguyenvana@gmail.com\",\n  \"rating\": 5,\n  \"comment\": \"Rat tot!\"\n}"
+        }
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:3000"
+    }
+  ]
+}
